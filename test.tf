@@ -1,5 +1,5 @@
 provider null {
-  version = "~> 1.0"
+  version = "~> 3.2.2"
 }
 
 resource "null_resource" "something" {
